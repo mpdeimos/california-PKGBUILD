@@ -1,4 +1,4 @@
-# Maintainer: Martin Pöhlmann <martin.deimos@gmx.de>
+# Maintainer: Martin Poehlmann <mpdeimos@outlook.com>
 
 pkgname=california
 pkgver=0.1.0r96.8c02e41
